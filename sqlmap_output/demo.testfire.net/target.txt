@@ -1,0 +1,1 @@
+http://demo.testfire.net (GET)  # sqlmap-master\sqlmap-master\sqlmap.py -u http://demo.testfire.net --batch --level 1 --risk 1 --flush-session --output-dir sqlmap_output

@@ -1,0 +1,1 @@
+https://x.com (GET)  # sqlmap-master\sqlmap-master\sqlmap.py -u https://x.com --batch --level 1 --risk 1 --flush-session --output-dir sqlmap_output

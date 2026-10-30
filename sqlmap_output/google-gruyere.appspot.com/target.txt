@@ -1,0 +1,1 @@
+https://google-gruyere.appspot.com/619488276588328511257605069166014662269/saveprofile?action=new&uid=AHrX&pw=gJpK&is_author=True (GET)  # sqlmap-master\sqlmap-master\sqlmap.py -u https://google-gruyere.appspot.com/619488276588328511257605069166014662269/newaccount.gtl --batch --level 1 --risk 1 --flush-session --output-dir sqlmap_output --forms
