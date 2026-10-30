@@ -1,2 +1,4 @@
 # APU-FYP2025-Autonomous-Web-Scanner
-A research and development project exploring autonomous penetration testing through vulnerability detection, security analysis, and automated reporting.
+An academic Final Year Project developed at Asia Pacific University (APU), focusing on automated web application penetration testing and vulnerability assessment. The system integrates automated security scanning to identify common web vulnerabilities, including SQL Injection (SQLi), Cross-Site Scripting (XSS), Server-Side Request Forgery (SSRF), and other web security issues. It also provides vulnerability analysis, automated security report generation (PDF/JSON), and remediation recommendations.
+
+This repository serves as the project's development and documentation space. Feedback, bug reports, feature suggestions, and issue submissions are welcome. Please use the GitHub Issues section to report bugs, document unexpected behaviour, or suggest improvements.
